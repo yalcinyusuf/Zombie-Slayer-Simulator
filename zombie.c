@@ -1,6 +1,6 @@
+/*Yakın zamanda kod içinde bidaha düzenleme olacaktır */
 /*Yusuf YALÇIN 
 18120205032 
-HW4 
 Optimum doorman sayısı 1 dir.En azından benim randteki şanstan böyle çıktı(srand kullnasaydım değişirdi) 2 de kafa kafayalar zombi kazanıyor ilk. 3'ten sonra zombiler.
 Matematiksel olarakta böyledir
 */
